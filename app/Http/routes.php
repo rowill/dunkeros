@@ -14,20 +14,5 @@ put
 delete
 |
 */
-Route::get('controlador','prueba@index');
-Route::get('name/{nombre}','prueba@nombre');
-Route::resource('Entrenamientos','EntrenamientosController');
-Route::get('prueba', function(){
-return"Hola desde routes.php";
-});
-Route::get('nombre/{nombre}', function($nombre){
-	return "mi nombre es: ".$nombre;
-});
-Route::get('/', 'WelcomeController@index');
+Route::get('/','FrontController@index');
 
-Route::get('home', 'HomeController@index');
-
-Route::controllers([
-	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
-]);
