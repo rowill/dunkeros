@@ -16,6 +16,10 @@ class FrontController extends Controller {
 	{
 		return view('index');
 	}
+	public function dunk60()
+	{
+		return view('dunk60');
+	}
 
 
 }

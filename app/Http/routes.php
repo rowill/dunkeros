@@ -15,4 +15,6 @@ delete
 |
 */
 Route::get('/','FrontController@index');
+Route::get('/dunk60','FrontController@dunk60');
+
 

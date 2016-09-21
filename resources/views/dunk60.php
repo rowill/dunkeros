@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Bienvenido a Dunkeros,donde el basquet no es un juego sino nuestro estilo de vida. aprenderas a dunkear si sigues nuestros entrenamientos y consejos"/>
 
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0">	
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0"> 
 
-	
-	<!-- Latest compiled and minified CSS -->
+  
+  <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 <link href="/css/estilos.css" rel="stylesheet">
-	<title>Dunkeros. Ahora cual es tu escusa.</title>
-	
+  <title>Dunkeros. Ahora cual es tu escusa.</title>
+  
 </head>
 <body>
 <div class="container-fluid ">  
@@ -40,7 +40,7 @@
               Entrenamientos <b class="caret"></b>
             </a>
             <ul class="dropdown-menu">
-             <li><a class="menud1" href="dunk60">Dunkear en 60 dias.</a></li>
+             <li><a class="menud1" href="#">Dunkear en 60 dias.</a></li>
               <li><a class="menud1" href="#">lebroneando.</a></li>
               <li><a class="menud1" href="#">Dribling.</a></li>
               <li class="divider"></li>
@@ -64,14 +64,13 @@
 </div>
 
 
-<div class="container-fluid">
+<div class="container">
   <div class="row ">
     <div class="col-md-3 ">
              <!--facebook-->
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDunkeros-798958636832576%2F%3Fref%3Dts%26fref%3Dts&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="1" allowTransparency="true"></iframe>
+       <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDunkeros-798958636832576%2F%3Fref%3Dts%26fref%3Dts&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>-->
     </div>
-    <div class="col-md-6">
-    <div class="row">
+    <div class="col-md-6 noticias">
         <hgroup>
       <h1 >Lebroniando.</h1>
       <h2>Día 1</h2>
@@ -82,7 +81,7 @@ explico serán 30 vídeos el cual cada dia tendrá un vídeo hasta terminar y cu
 Espero sea de gran ayuda para todo los deportistas que desean mejorar.</p>
         </hgroup>
     </div>
-    </div>
+    
       <div class="col-md-3">
          <!--Twitter-->   
        
