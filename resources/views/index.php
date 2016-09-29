@@ -26,14 +26,14 @@
        
         <div class="navbar-header">
  
-          <a class="" href="index.html"><img id="Logo" class="img-responsive" src="/imagenes/Dunkeros.png" alt=""></a>
+          <a class="" href="/"><img id="Logo" class="img-responsive" src="/imagenes/Dunkeros.png" alt=""></a>
         </div>
  
    <!-- Agrupar los enlaces de navegación, los formularios y cualquier
         otro elemento que se pueda ocultar al minimizar la barra -->
         <div class="collapse navbar-collapse navbar-ex1-collapse menud">
         <ul class="nav navbar-nav">
-          <li ><a class="menud1" href="index.html">Inicio.</a></li>
+          <li ><a class="menud1" href="/">Inicio.</a></li>
           <li><a class="menud1" href="#">Noticias.</a></li>
           <li class="dropdown">
             <a class="menud1" href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -65,37 +65,24 @@
 
 
 <div class="container-fluid">
-  <div class="row ">
-    <div class="col-md-3 ">
+  <div class="row display-inblock ">
+    <div class="col-md-3 visible-lg ">
              <!--facebook-->
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDunkeros-798958636832576%2F%3Fref%3Dts%26fref%3Dts&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="1" allowTransparency="true"></iframe>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FDunkeros-798958636832576%2F%3Fref%3Dts%26fref%3Dts&tabs=timeline&width=300&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
     </div>
-    <div class="col-md-6">
-    <div class="row">
+  
+    <div class="col-md-6  col-xs-12  col-sm-8 noticias">
         <hgroup>
       <h1 >Lebroniando.</h1>
       <h2>Día 1</h2>
           <p class="lead  noticias1 flex-caption">  Entrenamiento de salto vertical con pesas para jugadores de baloncesto o todos aquellos deportistas que deseen aumentar su salto vertical en un 30-40cm de su salto natural.. 
 <br>
-Esta rutina se realizara dejando un dia de descanso por medio es decir e realizaran lunes-miercoles-viernes. <br>
-explico serán 30 vídeos el cual cada dia tendrá un vídeo hasta terminar y culminar el reto.
+Esta rutina se realizara dejando sada dia tendrá un vídeo hasta terminar y culminar el reto.
 Espero sea de gran ayuda para todo los deportistas que desean mejorar.</p>
         </hgroup>
     </div>
-    </div>
-      <div class="col-md-3">
-         <!--Twitter-->   
-       
-  
-  
-          <!--publicidad-->
-         <!--<figure>
-         <a class="fade" href="http://geekonos.com" target="_blank">
-           <img src="img/logo-geekonos.png" alt="geekonos">
-           <figcaption> geekonos</figcaption>
-         </a>
-         </figure>-->
-      </div>
+    
+      
     
   </div>
 </div>
@@ -106,7 +93,9 @@ Espero sea de gran ayuda para todo los deportistas que desean mejorar.</p>
     <h2>
       Ahora cual es tu escusa, para volar y ser el mejor<a rel="author" href="http://twitter.com/bextlan" target="_blank"><!-- el target="_blank" es para que abra el enlace de twitter en otra pestaña--> @bextlan</a>     
     </h2>
-    <h3>Desarrollado por Ing. Rowill J. Ing.rowill.13@gmail.com</h3>
+    <h3>Desarrollado por: <br> Ing. Rowill J. Ing.rowill.13@gmail.com <br> Ing. Abrahan D. Perez </h3>
+    </div>
+
 
     </footer>
    
